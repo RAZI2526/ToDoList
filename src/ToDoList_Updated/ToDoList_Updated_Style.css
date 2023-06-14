@@ -1,0 +1,15 @@
+.body_ToDo{
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}
+.app_ToDo{
+    width: 25%;
+    height: 80vh;
+    background-color:aquamarine;
+   
+}
+.btn-primary{
+    position: relative;
+    top: 5px;
+}
